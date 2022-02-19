@@ -30,7 +30,7 @@ public class Main {
         frame.add(deck.get(0));
         */
         
-        //we can do the above using a nemaeless object
+        //we can do the above using a nameless object
         /*
         deck.add(new JLabel(new ImageIcon("src\\cards\\1.png")));
         frame.add(deck.get(0));
